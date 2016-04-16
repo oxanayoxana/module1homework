@@ -1,0 +1,7 @@
+Differences after using CSS reset:
+- <h1> appears as a plain text
+- there's no spacing between lines
+- <em> appears as a plain text
+- <br> appears as a plain text
+- only link works
+- and there's no changes to the <Title> since it's in a <head>
